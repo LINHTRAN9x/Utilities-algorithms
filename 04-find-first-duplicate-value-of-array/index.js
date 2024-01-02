@@ -1,5 +1,4 @@
 /**
- * https://trungquandev.com
  * --- Đề bài ---
  * - Cho một Array ví dụ ['a', 'b', 'a', 'd', 'd', 'e', 'b', 'x', 'y', 'z']
  * - Yêu cầu tìm phần tử bị duplicate đầu tiên trong Array (với độ phức tạp thuật toán tối ưu nhất có thể).

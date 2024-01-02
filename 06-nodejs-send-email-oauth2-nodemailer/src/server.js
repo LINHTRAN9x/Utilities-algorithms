@@ -1,5 +1,4 @@
 /**
- * Created by trungquandev.com's author on 05/16/2022
  * NodeJS send email by OAuth2 and Nodemailer
  * Tutorial here: https://trungquandev.com/nodejs-viet-api-gui-email-voi-oauth2-va-nodemailer
  */
